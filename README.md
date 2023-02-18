@@ -1,5 +1,8 @@
 # Project-1
 
+![image](https://user-images.githubusercontent.com/118692087/219828243-8210ee31-d269-47ea-b5cf-350efb92131d.png)
+
+
 Our group evaluated a data set that polled a population regarding their music listening habits and their self-reported levels of anxiety, depression
 insomnia and OCD.
 
